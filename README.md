@@ -1,5 +1,5 @@
 # Audit tables postgres and register sync  
-Script to be use on refresh materialized views.
+Script to be use for audit inserts, updates or deletes on postgres tables.
 
 ## Steps to execute:
 1. Open terminal
