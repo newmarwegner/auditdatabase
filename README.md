@@ -10,7 +10,8 @@ Script to be use on refresh materialized views.
 6. Fill the parameter in .env file   
 7. Install the requirements packages
 8. Create audit schema and tables
-9. Begin use Postgresql.py module
+9. Run tests with pytest   
+10. Begin use Postgresql.py module
 
 ## Codes
 ```
