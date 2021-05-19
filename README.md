@@ -1,4 +1,4 @@
-# Audit tables postgres and register sync with portal   
+# Audit tables postgres and register sync  
 Script to be use on refresh materialized views.
 
 ## Steps to execute:
