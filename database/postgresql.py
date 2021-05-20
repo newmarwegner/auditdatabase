@@ -148,8 +148,8 @@ class Postgres:
 
 if __name__ == '__main__':
     pg = Postgres()
-    list_alters = pg.concat_alters(20)
-    tables = pg.get_alters(list_alters)
-    for item in tables.items():
-        print(item)
+    # list_alters = pg.concat_alters(20)
+    # tables = pg.get_alters(list_alters)
+    # for item in tables.items():
+    #     print(item)
     pg.insert_sync_result(result)

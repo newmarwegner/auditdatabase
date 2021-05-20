@@ -1,6 +1,6 @@
 import sqlalchemy
 from sqlalchemy import Table, MetaData
-from database.Postgresql import Postgres
+from database.postgresql import Postgres
 
 
 def test_conn_sqlalchemy():
